@@ -1,2 +1,2 @@
-# Cousera-Capstone
+# Coursera-Capstone
 New capstone course project
